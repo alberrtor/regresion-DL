@@ -1,0 +1,19 @@
+# Dependencias principales
+tensorflow
+scikit-learn
+pandas
+numpy
+streamlit
+
+# Para la codificación y preprocesamiento
+matplotlib
+seaborn
+
+# Almacenamiento del modelo
+h5py
+
+# Para persistencia y pipelines
+ploomber
+
+# Otros
+requests
