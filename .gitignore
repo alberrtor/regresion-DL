@@ -13,5 +13,12 @@ venv.bak/
 # VS Code
 .vscode/
 
-Dataset
+#Dataset
 USA Housing Dataset.csv
+
+encoder.pkl
+house_price_model.h5
+predictions.csv
+processed_features.csv
+processed_targets.csv
+scaler.pkl
