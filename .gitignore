@@ -12,3 +12,6 @@ venv.bak/
 
 # VS Code
 .vscode/
+
+Dataset
+USA Housing Dataset.csv
